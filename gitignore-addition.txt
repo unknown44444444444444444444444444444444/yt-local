@@ -1,0 +1,5 @@
+# Auth - DO NOT COMMIT
+nginx/.htpasswd
+
+# App data
+data/
